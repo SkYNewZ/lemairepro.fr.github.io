@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://lemairepro.fr/author/admin/</loc><lastmod>2020-11-18T10:24:32+00:00</lastmod></url><url><loc>https://lemairepro.fr/author/</loc><priority>0</priority></url><url><loc>https://lemairepro.fr/categories/</loc><priority>0</priority></url><url><loc>https://lemairepro.fr/</loc><lastmod>2020-11-18T10:24:32+00:00</lastmod><priority>0</priority></url><url><loc>https://lemairepro.fr/tags/</loc><priority>0</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://lemairepro.fr/author/admin/</loc>
+      <lastmod>2020-11-18T10:24:32+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lemairepro.fr/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lemairepro.fr/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lemairepro.fr/</loc>
+      <lastmod>2020-11-18T10:24:32+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://lemairepro.fr/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
